@@ -1,0 +1,25 @@
+.parrafo1 {
+    background-color: blue;
+    width: 50%;
+}
+
+.doshr{
+    size: 5; 
+    width: 50%;
+}
+
+.cuatrohr {
+    border-width: 10px;
+    width: 60%;
+    height: 50px;
+    color: rgb(0, 255, 0);
+    background-color: rgb(255, 0, 0);
+    margin-right: 0pt;
+}
+
+treshr {
+    width: 75%;
+    height: 10px;
+    background-color: rbg(0, 0, 225);
+    margin-left: 0pt;
+}
